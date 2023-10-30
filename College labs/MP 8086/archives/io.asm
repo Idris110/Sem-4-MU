@@ -1,0 +1,2 @@
+data segment
+    msg db 

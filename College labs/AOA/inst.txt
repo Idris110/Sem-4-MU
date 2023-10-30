@@ -1,0 +1,8 @@
+Aim :
+Theory :
+Algorithm :
+Example / problem :
+Analysis :
+Application :
+Program with output(don’twrite...use soft copy) :
+Conclusion: A short paragraph explaining what have you learn while performing the experiment.

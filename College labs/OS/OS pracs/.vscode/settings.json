@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "condition_variable": "c",
+        "future": "c",
+        "cmath": "cpp"
+    }
+}
